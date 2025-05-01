@@ -4,13 +4,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "24105730123"
+global.ownernomer = "51960285930"
 global.ownername = "CRAZY DEV"
 global.ytname = "YT: CrazyXyXx"
 global.socialm = "ig: CrazyXyXx"
-global.location = "Gabon, Libreville"
+global.location = "Lima, Peru"
 
-global.ownernumber = '24105730123'  //creator number
+global.ownernumber = '51960286930'  //creator number
 global.ownername = 'CRAZY DEV' //owner name
 global.botname = '𝐂𝐑𝐀𝐙𝐘-𝐌𝐃 𝐕２.' //name of the bot
 
@@ -24,19 +24,19 @@ global.themeemoji = '🪀'
 global.wm = "Crazy Tech Inc."
 
 //theme link
-global.link = 'wa.me/24105730123'
+global.link = 'wa.me/51960286930'
 
 //custom prefix
 global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true//auto update bio
+global.autobio = true //auto update bio
 global.anti880 = true //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
